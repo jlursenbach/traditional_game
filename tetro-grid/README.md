@@ -13,3 +13,5 @@ Once the entire grid is full, players add up their scores.
 
 (Alternate rules) 
 A square with 2 colors (or whos color would have been changed) is dead, turns black, and has no value.
+
+[https://github.com/jlursenbach/traditional_game/blob/main/tetro-grid/Screenshot%202022-09-30%20200558.png](https://github.com/jlursenbach/traditional_game/blob/main/tetro-grid/Screenshot%202022-09-30%20200558.png)
